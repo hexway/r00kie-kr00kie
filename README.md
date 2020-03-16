@@ -1,8 +1,11 @@
 # r00kie-kr00kie
 
+<p align="center">
+  <img src="https://github.com/hexway/r00kie-kr00kie/blob/master/img/rookie.jpg"  height="350">
+</p>
 
 ## Disclaimer
-This is a PoC exploit for the CVE-2019-15126 kr00k vulnerability.
+This is a PoC exploit for the CVE-2019-15126 **kr00k** vulnerability.
 
 ***This project is intended for educational purposes only and cannot be used for law violation or personal gain.<br/>The author of this project is not responsible for any possible harm caused by the materials.***
 
